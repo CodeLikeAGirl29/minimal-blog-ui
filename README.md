@@ -32,7 +32,7 @@ List the ready features here:
 
 
 ## Screenshots
-![Example screenshot](https://res.cloudinary.com/codelikeagirl29/image/upload/v1667015614/projects/localhost-5500_hwyizy.png)
+![Example screenshot](https://res.cloudinary.com/codelikeagirl29/image/upload/v1667017152/projects/localhost-5500-index-html_dxjlxe.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
