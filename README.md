@@ -1,6 +1,6 @@
-# Project Name
+# A Simple Life
 > Created a __responsive__ site for minimalist bloggers looking for a simple template to use.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://codelikeagirl29.github.io/minimal-blog-ui/). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -16,12 +16,7 @@
 
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+- A blog site with a Home page, an About page and a Recent Posts page.
 
 ## Technologies Used
 - ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
